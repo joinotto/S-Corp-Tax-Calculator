@@ -13,4 +13,5 @@ This contains everything you need to run your app locally.
 3. Run the app:
    `npm run dev`
 /S-Corp Tax Calculator
+
 Estimate your potential tax savings by converting to an S-Corporation. Adjust the sliders below to see how your net income and salary affect your savings./
