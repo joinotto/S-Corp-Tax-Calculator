@@ -1,0 +1,6 @@
+{
+  "name": "S-Corp Tax Savings Calculator",
+  "description": "A React application that replicates the S-Corp Tax Savings Calculator from gettaxhub.com, allowing users to estimate potential tax savings by converting to an S-Corp. It features interactive sliders for income and salary inputs, and dynamically calculates savings based on these values and predefined S-Corp administration costs.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
